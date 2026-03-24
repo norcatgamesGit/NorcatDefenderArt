@@ -1,0 +1,14 @@
+{
+  "playerShips": [
+    {
+      "id": "player_default",
+      "imageUrl": "REPLACE_ME"
+    }
+  ],
+  "enemies": [
+    {
+      "id": "enemy_scout",
+      "imageUrl": "REPLACE_ME"
+    }
+  ]
+}
